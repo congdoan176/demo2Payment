@@ -1,0 +1,10 @@
+banks:
+  - bankCode: 123
+    privateKey: abcd12345
+    ips: 
+  - bankCode: 321
+    privateKey: 54321cba
+    ips: 
+  - bankCode: 970445
+    privateKey: xyz7891
+    ips: 

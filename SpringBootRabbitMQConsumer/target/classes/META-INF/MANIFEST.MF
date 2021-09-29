@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: SpringBootRabbitMQConsumer
+Implementation-Version: 0.0.1
+Built-By: Lucky Star
+Implementation-Vendor-Id: com.vnpay
+Build-Jdk: 1.8.0_301
+Implementation-URL: http://projects.spring.io/spring-boot/SpringBootRa
+ bbitMQConsumer/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
